@@ -1,0 +1,6 @@
+a=input("enter the number a")
+b=input("enter the number b")
+num1=int(a)
+num2=int(b)
+num3=num1+num2
+print(bin(num3))
