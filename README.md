@@ -11,3 +11,6 @@ Perfect number
 Factorial
 Reverse pattern
 Grade and average marks of student
+Age vadalition
+Celsius to Fahrenheit
+
