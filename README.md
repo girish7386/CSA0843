@@ -11,6 +11,14 @@ Perfect number
 Factorial
 Reverse pattern
 Grade and average marks of student
-Age vadalition
+Vote eligible
 Celsius to Fahrenheit
+Lexicographically vowel
+Using format operators
+Simple interest
+Palindrome string
+Pattern
+Inverted pattern
+Fabnocci series
+Adding binary numbers
 
