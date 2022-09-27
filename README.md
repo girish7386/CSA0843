@@ -17,6 +17,8 @@ Lexicographically vowel
 Using format operators
 Simple interest
 Palindrome string
+Mult table
+Perfect square num sum to n
 Pattern
 Inverted pattern
 Fabnocci series
