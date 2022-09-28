@@ -1,4 +1,4 @@
-# CSA0843
+By# CSA0843
 Adding binary numbers
 water container
 isomorphic
@@ -30,3 +30,4 @@ Mth maximum number and Nth minimum number
 read a character until a * 
 Triangular pattern 
 Online shipping
+Matchs string
