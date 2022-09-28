@@ -24,3 +24,7 @@ Inverted pattern
 Fabnocci series
 Adding binary numbers
 Username verification 
+read the numbers until -1
+Mirror image 
+Mth maximum number and Nth minimum number
+read a character until a * 
