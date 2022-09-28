@@ -31,3 +31,4 @@ read a character until a *
 Triangular pattern 
 Online shipping
 Matchs string
+ Print the pattern
