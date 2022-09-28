@@ -16,6 +16,7 @@ Celsius to Fahrenheit
 Lexicographically vowel
 Using format operators
 Simple interest
+Keypad
 Palindrome string
 Mult table
 Perfect square num sum to n
