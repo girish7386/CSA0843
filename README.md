@@ -28,3 +28,4 @@ read the numbers until -1
 Mirror image 
 Mth maximum number and Nth minimum number
 read a character until a * 
+Triangular pattern 
