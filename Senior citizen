@@ -1,0 +1,11 @@
+p=int(input("enter the principle amount"));
+t=int(input("enter the time"));
+am=input("senior citizen or not")
+if(am=='y'):
+    si=(p*t*12)/100
+    print(si)
+elif(am=='n'):
+     si=(p*t*10)/100
+     print(si)
+else:
+    print("invalid")
