@@ -33,3 +33,4 @@ Online shipping
 Matchs string
 Print the pattern
 first n perfect numbers and its first m factors.
+Pattern in decimal
