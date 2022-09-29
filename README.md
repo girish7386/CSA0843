@@ -36,4 +36,13 @@ Print the pattern
 first n perfect numbers and its first m factors.
 Pattern in decimal
 Basic calculator 
-Number of Words Found in Sentences
+Simple interest
+Sum of the squares
+Max num of words
+Palindrome
+M to n by shipping k
+Leap years
+Number pattern 12345
+Adding two lists
+Matrix addition
+Combinations
