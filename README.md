@@ -36,3 +36,4 @@ Print the pattern
 first n perfect numbers and its first m factors.
 Pattern in decimal
 Basic calculator 
+Number of Words Found in Sentences
