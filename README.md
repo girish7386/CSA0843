@@ -54,4 +54,5 @@ Pattern in decimal
 Smallest number in array
 Reverse a number using loop
 School management 
+Vowels and consonants 
 
