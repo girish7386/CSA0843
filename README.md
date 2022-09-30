@@ -46,3 +46,7 @@ Number pattern 12345
 Adding two lists
 Matrix addition
 Combinations
+Words in ascending, descending order
+Vowel count
+Square and cube of numbers
+
