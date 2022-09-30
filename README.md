@@ -49,4 +49,5 @@ Combinations
 Words in ascending, descending order
 Vowel count
 Square and cube of numbers
+Reverse a word
 
