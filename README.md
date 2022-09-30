@@ -50,4 +50,8 @@ Words in ascending, descending order
 Vowel count
 Square and cube of numbers
 Reverse a word
+Pattern in decimal
+Smallest number in array
+Reverse a number using loop
+School management 
 
