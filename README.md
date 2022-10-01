@@ -59,3 +59,6 @@ Length of last word
 Lcd and gcd
 Patter day5
 Voting eligibility 
+Frequency
+Composite b/w a,b
+Calculator 
