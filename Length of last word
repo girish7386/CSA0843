@@ -1,12 +1,7 @@
-def lengthOfLastWord(a):
-    l = 0
-    x = a.strip()
-    for i in range(len(x)):
-        if x[i] == " ":
-            l = 0
-        else:
-            l += 1
-    return l
-if __name__ == "__main__":
-    inp = "hello world "
-    print(lengthOfLastWord(inp))
+def length_of_last_word(s):
+        words = s.split()
+        if len(words) == 0:
+            return 0
+        return len(words[-1])
+
+print(length_of_last_word("hello world"))
