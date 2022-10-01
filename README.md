@@ -62,3 +62,4 @@ Voting eligibility
 Frequency
 Composite b/w a,b
 Calculator 
+School assignment 
