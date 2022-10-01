@@ -57,4 +57,4 @@ School management
 Vowels and consonants 
 Length of last word
 Lcd and gcd
-
+Patter day5
