@@ -63,3 +63,4 @@ Frequency
 Composite b/w a,b
 Calculator 
 School assignment 
+Count of prime amd composite
